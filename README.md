@@ -173,3 +173,7 @@ GID of the user used. Owner of the volume /ark
     - Full credit given to https://github.com/TuRz4m/Ark-docker
     - Added VIM to image
     - Added SERVERMODS environment variable modifed arkmanager.cfg to use it
+    - Full credit goes to https://github.com/TuRz4m/Ark-docker for the original
++2.1 :
+    - Fixed Arkmanager so it can now update to the latest.
+    
